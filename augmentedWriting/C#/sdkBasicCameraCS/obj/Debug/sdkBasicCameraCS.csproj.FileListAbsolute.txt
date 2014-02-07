@@ -1,0 +1,42 @@
+E:\STUDY\android\win 8\samples\Basic Camera Sample\C#\sdkBasicCameraCS\Bin\Debug\ApplicationIcon.png
+E:\STUDY\android\win 8\samples\Basic Camera Sample\C#\sdkBasicCameraCS\Bin\Debug\Background.png
+E:\STUDY\android\win 8\samples\Basic Camera Sample\C#\sdkBasicCameraCS\Bin\Debug\sdkBasicCameraCS.dll
+E:\STUDY\android\win 8\samples\Basic Camera Sample\C#\sdkBasicCameraCS\Bin\Debug\sdkBasicCameraCS.pdb
+E:\STUDY\android\win 8\samples\Basic Camera Sample\C#\sdkBasicCameraCS\Bin\Debug\AppManifest.xaml
+E:\STUDY\android\win 8\samples\Basic Camera Sample\C#\sdkBasicCameraCS\Bin\Debug\sdkBasicCameraCS.xap
+E:\STUDY\android\win 8\samples\Basic Camera Sample\C#\sdkBasicCameraCS\obj\Debug\sdkBasicCameraCS.csprojResolveAssemblyReference.cache
+E:\STUDY\android\win 8\samples\Basic Camera Sample\C#\sdkBasicCameraCS\obj\Debug\App.g.cs
+E:\STUDY\android\win 8\samples\Basic Camera Sample\C#\sdkBasicCameraCS\obj\Debug\MainPage.g.cs
+E:\STUDY\android\win 8\samples\Basic Camera Sample\C#\sdkBasicCameraCS\obj\Debug\sdkBasicCameraCS.g.resources
+E:\STUDY\android\win 8\samples\Basic Camera Sample\C#\sdkBasicCameraCS\obj\Debug\sdkBasicCameraCS.dll
+E:\STUDY\android\win 8\samples\Basic Camera Sample\C#\sdkBasicCameraCS\obj\Debug\sdkBasicCameraCS.pdb
+E:\STUDY\android\win 8\samples\Basic Camera Sample\C#\sdkBasicCameraCS\obj\Debug\XapCacheFile.xml
+E:\STUDY\android\win 8\samples\Basic Camera Sample\C#\sdkBasicCameraCS\obj\Debug\Cameraview.g.cs
+E:\Projects\microsoftHackathon\7-2-14\Basic Camera Sample\C#\sdkBasicCameraCS\Bin\Debug\ApplicationIcon.png
+E:\Projects\microsoftHackathon\7-2-14\Basic Camera Sample\C#\sdkBasicCameraCS\Bin\Debug\Background.png
+E:\Projects\microsoftHackathon\7-2-14\Basic Camera Sample\C#\sdkBasicCameraCS\Bin\Debug\sdkBasicCameraCS.dll
+E:\Projects\microsoftHackathon\7-2-14\Basic Camera Sample\C#\sdkBasicCameraCS\Bin\Debug\sdkBasicCameraCS.pdb
+E:\Projects\microsoftHackathon\7-2-14\Basic Camera Sample\C#\sdkBasicCameraCS\Bin\Debug\AppManifest.xaml
+E:\Projects\microsoftHackathon\7-2-14\Basic Camera Sample\C#\sdkBasicCameraCS\Bin\Debug\sdkBasicCameraCS.xap
+E:\Projects\microsoftHackathon\7-2-14\Basic Camera Sample\C#\sdkBasicCameraCS\obj\Debug\sdkBasicCameraCS.csprojResolveAssemblyReference.cache
+E:\Projects\microsoftHackathon\7-2-14\Basic Camera Sample\C#\sdkBasicCameraCS\obj\Debug\App.g.cs
+E:\Projects\microsoftHackathon\7-2-14\Basic Camera Sample\C#\sdkBasicCameraCS\obj\Debug\Cameraview.g.cs
+E:\Projects\microsoftHackathon\7-2-14\Basic Camera Sample\C#\sdkBasicCameraCS\obj\Debug\MainPage.g.cs
+E:\Projects\microsoftHackathon\7-2-14\Basic Camera Sample\C#\sdkBasicCameraCS\obj\Debug\sdkBasicCameraCS.g.resources
+E:\Projects\microsoftHackathon\7-2-14\Basic Camera Sample\C#\sdkBasicCameraCS\obj\Debug\sdkBasicCameraCS.dll
+E:\Projects\microsoftHackathon\7-2-14\Basic Camera Sample\C#\sdkBasicCameraCS\obj\Debug\sdkBasicCameraCS.pdb
+E:\Projects\microsoftHackathon\7-2-14\Basic Camera Sample\C#\sdkBasicCameraCS\obj\Debug\XapCacheFile.xml
+E:\Projects\microsoftHackathon\augmentedWriting\C#\sdkBasicCameraCS\Bin\Debug\ApplicationIcon.png
+E:\Projects\microsoftHackathon\augmentedWriting\C#\sdkBasicCameraCS\Bin\Debug\Background.png
+E:\Projects\microsoftHackathon\augmentedWriting\C#\sdkBasicCameraCS\Bin\Debug\sdkBasicCameraCS.dll
+E:\Projects\microsoftHackathon\augmentedWriting\C#\sdkBasicCameraCS\Bin\Debug\sdkBasicCameraCS.pdb
+E:\Projects\microsoftHackathon\augmentedWriting\C#\sdkBasicCameraCS\Bin\Debug\AppManifest.xaml
+E:\Projects\microsoftHackathon\augmentedWriting\C#\sdkBasicCameraCS\Bin\Debug\sdkBasicCameraCS.xap
+E:\Projects\microsoftHackathon\augmentedWriting\C#\sdkBasicCameraCS\obj\Debug\sdkBasicCameraCS.csprojResolveAssemblyReference.cache
+E:\Projects\microsoftHackathon\augmentedWriting\C#\sdkBasicCameraCS\obj\Debug\App.g.cs
+E:\Projects\microsoftHackathon\augmentedWriting\C#\sdkBasicCameraCS\obj\Debug\Cameraview.g.cs
+E:\Projects\microsoftHackathon\augmentedWriting\C#\sdkBasicCameraCS\obj\Debug\MainPage.g.cs
+E:\Projects\microsoftHackathon\augmentedWriting\C#\sdkBasicCameraCS\obj\Debug\sdkBasicCameraCS.g.resources
+E:\Projects\microsoftHackathon\augmentedWriting\C#\sdkBasicCameraCS\obj\Debug\sdkBasicCameraCS.dll
+E:\Projects\microsoftHackathon\augmentedWriting\C#\sdkBasicCameraCS\obj\Debug\sdkBasicCameraCS.pdb
+E:\Projects\microsoftHackathon\augmentedWriting\C#\sdkBasicCameraCS\obj\Debug\XapCacheFile.xml
